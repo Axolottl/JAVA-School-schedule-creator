@@ -3,6 +3,7 @@
 <blockquote>
 <b>Schedule Creator and Generator Using Input of Available Teacher Time and Classes</b>
 </blockquote>
+<hr>
 
 ## Team Members
 
