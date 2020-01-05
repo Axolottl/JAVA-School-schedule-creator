@@ -1,7 +1,7 @@
 # JAVA School Schedule Creator
 
 <blockquote>
-Schedule Creator Using Input of Available Teacher Time and Classes
+<b>Schedule Creator and Generator Using Input of Available Teacher Time and Classes</b>
 </blockquote>
 
 ## Team Members
