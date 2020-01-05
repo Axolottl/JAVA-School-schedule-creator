@@ -153,4 +153,15 @@ Once all these files have been setup , we can head to the code phase.
 
 Schedules represents an interesting problem to tackle when it comes to algorithms, as it requires setting up constraints in order to dynamically create the schedule, aswell as weighing up these constraints 
 
-## 
+## Main Page
+
+![alt text](https://i.imgur.com/BFE4toH.png)
+
+## Input Page
+
+![alt text](https://i.imgur.com/yDHdANA.png)
+![alt text](https://i.imgur.com/36SVtbI.png)
+
+## Schedule Page
+
+![alt text](https://i.imgur.com/MhgUBrk.png)
