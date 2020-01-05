@@ -97,7 +97,7 @@ dependencies {
 }
 ```
 
-<b><build gardle/b>
+<b>build gardle</b>
   
 ```
   plugins {
