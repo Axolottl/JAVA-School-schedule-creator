@@ -1,7 +1,5 @@
-
 import java.util.Collections;
 import java.util.Random;
-
 import exam.Emploi;
 
 public class Emploi {
@@ -10,20 +8,15 @@ public class Emploi {
 	 public long getHours() {
 		    return hours;
 		  }
-
 		  public void setHours(int hours) {
 		    this.hours = hours;
 		  }
-
 		  public String getName() {
 		    return name;
 		  }
-
 		  public void setName(String name) {
 		    this.name = name;
-		  }
-		  			
-			  
+		  } 
 			  Emploi emploi1 = new Emploi();
 			  Emploi emploi2 = new Emploi();
 			  Emploi emploi3 = new Emploi();	
@@ -44,15 +37,8 @@ public class Emploi {
 			  Emploi emploi18 = new Emploi();	
 			  Emploi emploi19 = new Emploi();	
 			  Emploi emploi20 = new Emploi();
-			  
-			  
 			  public void foo(@RequestParam("seance[]") List<String> to) { 
 			  Collections.shuffle( to , new Random(3));
-			  }
-			  
-			  
-			  
-		  }
-		  
-
+		}
+	}
 }
